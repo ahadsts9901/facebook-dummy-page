@@ -37,3 +37,11 @@ div{
     background-image: url(./images/backgroung.avif);
 
 }
+
+.black{
+    color: black;
+}
+
+.iconborder{
+    border: 2px solid black;
+}
