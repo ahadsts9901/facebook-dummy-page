@@ -4,6 +4,14 @@
     font-weight: bold;
 }
 
+header{
+    position: sticky;
+    z-index: 20;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+
 button{
     background-color: rgb(235, 235, 235);
     border: rgb(235, 235, 235);
